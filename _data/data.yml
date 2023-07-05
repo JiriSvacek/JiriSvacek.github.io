@@ -100,9 +100,9 @@ certifications:
          
 projects:
     title: Projects
-    intro: <asdasd
+    intro: >
     assignments:
-      - title: Velocity
+      - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://github.com/JiriSvacek/Finder"
         tagline: "Web dating site. Running on <a href="JiriSvacek.eu.pythonanywhere.com" rel="nofollow">Running on python anywhere.</a> with some limitations."
 
