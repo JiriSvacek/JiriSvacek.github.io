@@ -3,129 +3,123 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jiří Šváček
-    tagline: 
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Jiří Šváček
+  tagline:
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: svacek.jiri@email.cz
-    phone: +420 724 385 611
-    timezone:
-    citizenship: Czech
-    website: #blog.webjeda.com do not add http://
-    linkedin: 
-    xing: 
-    github: JiriSvacek
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: #'@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #https://JiriSvacek.github.io/print
+  # Sidebar links
+  email: svacek.jiri@email.cz
+  phone: +420 724 385 611
+  timezone:
+  citizenship: Czech
+  website: #blog.webjeda.com do not add http://
+  linkedin:
+  xing:
+  github: JiriSvacek
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: #'@webjeda'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: #https://JiriSvacek.github.io/print
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Czech
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: Czech
+        level: Native
 
-        - idiom: English
-          level: Without problem
+      - idiom: English
+        level: Without problem
 
-        - idiom: German
-          level: Just starting
+      - idiom: German
+        level: Just starting
 
-    interests:
-      title: Interests
-      info:
-        - item: Hiking
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Hiking
+        link:
 
-        - item: Ice Hockey
-          link:
+      - item: Ice Hockey
+        link:
 
-        - item: Houseworks
-          link:
+      - item: Houseworks
+        link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Former mechanical engineer. Currently focused on a programing. Mainly in Python, but also in JS or Java.
+  title: Career Profile
+  summary: |
+    Former mechanical engineer. Currently focused on a programing. Mainly in Python, but also in JS or Java.
 education:
-    title: Education
-    info:
-      - degree: Erasmus exchange
-        university: University of Maribor
-        time: 2021
-        details: One semester of Erasmus
-        
-      - degree: MSc in Production machines, systems and robots
-        university: Brno University of Technology
-        time: 2018 - 2020
-        details:
-        
-      - degree: BSc in Construction of machines and equipment
-        university: Brno University of Technology
-        time: 2015 - 2018
-        details:
-        
+  title: Education
+  info:
+    - degree: Erasmus exchange
+      university: University of Maribor
+      time: 2021
+      details: One semester of Erasmus
+
+    - degree: MSc in Production machines, systems and robots
+      university: Brno University of Technology
+      time: 2018 - 2020
+      details:
+
+    - degree: BSc in Construction of machines and equipment
+      university: Brno University of Technology
+      time: 2015 - 2018
+      details:
+
 experiences:
-    title: Experiences
-    info:
-      - role: SW Developer
-        time: 2021 - Present
-        company: ICE Industrial Services, Czechia
-        details: |
-          Mainly robot/PLC programming. Individual and team work. Working with electrical documentation.
+  title: Experiences
+  info:
+    - role: SW Developer
+      time: 2021 - Present
+      company: ICE Industrial Services, Czechia
+      details: |
+        Mainly robot/PLC programming. Individual and team work. Working with electrical documentation.
 
 certifications:
-      title: Certifications
-      list:
-        - name: IPAF
-          start: 2022
-          end: 
-          organization:
-          credentialid:
-          credentialurl:
-          credentialname:
-          details: |
-            3a, 3b
-         
+  title: #Certifications
+  list:
+    - name: #IPAF
+      start: #2022
+      end:
+      organization:
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: #|
+
 projects:
-    title: Mini-projects
-    intro: This projects are not complex.
-    assignments:
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        
+  title: Mini-projects
+  intro: This projects are not complex.
+  assignments:
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+    - title: Delta
+      link: "#"
+      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 oss:
-    title: Projects
-    intro: Here are listed main projects.
-    contributions:
-      - title: Finder (Python - Flask, SocketIO, MySQL)
-        link: "https://JiriSvacek.eu.pythonanywhere.com"
-        tagline: "Web dating site. On link working sw with some limitations at python anywhere site. Repository: https://github.com/JiriSvacek/Finder"
+  title: Projects
+  intro: Here are listed main projects.
+  assignments:
+    - title: Finder (Python - Flask, SocketIO, MySQL)
+      link: "https://JiriSvacek.eu.pythonanywhere.com"
+      tagline: "Web dating site. On link working sw with some limitations at python anywhere site. Repository: https://github.com/JiriSvacek/Finder"
 
-      - title: Heating water with excess power from PV (Micropython)
-        link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
-        tagline: "Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
-
-
-
-
-
+    - title: Heating water with excess power from PV (Micropython)
+      link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
+      tagline: "Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
 
 footer: >
-    Template CV forked from Designed with <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
+  Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
