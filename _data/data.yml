@@ -102,7 +102,7 @@ projects:
     title: Projects
     intro: <asdasd
     assignments:
-      - title: Finder (Python - Flask, SocketIO, MySQL)
+      - title: Velocity
         link: "https://github.com/JiriSvacek/Finder"
         tagline: "Web dating site. Running on <a href="JiriSvacek.eu.pythonanywhere.com" rel="nofollow">Running on python anywhere.</a> with some limitations."
 
