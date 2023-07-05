@@ -101,7 +101,12 @@ certifications:
 projects:
     title: Projects
     intro: >
+
     assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        
       - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://github.com/JiriSvacek/Finder"
         tagline: "Web dating site. Running on <a href="JiriSvacek.eu.pythonanywhere.com" rel="nofollow">Running on python anywhere.</a> with some limitations."
