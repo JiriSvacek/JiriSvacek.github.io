@@ -61,7 +61,7 @@ career-profile:
 education:
     title: Education
     info:
-        - degree: 
+      - degree: 
         university: University of Maribor
         time: 2021
         details: One semester of Erasmus
