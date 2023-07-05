@@ -100,7 +100,7 @@ certifications:
          
 projects:
     title: Projects
-    intro: 
+    intro: <asdasd
     assignments:
       - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://github.com/JiriSvacek/Finder"
