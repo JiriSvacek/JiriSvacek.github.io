@@ -105,7 +105,7 @@ projects:
     assignments:
       - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://github.com/JiriSvacek/Finder"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Web dating site. Running on <a href="JiriSvacek.eu.pythonanywhere.com" rel="nofollow">Running on python anywhere.</a> with some limitations."
         
       - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://github.com/JiriSvacek/Finder"
