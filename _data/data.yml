@@ -85,18 +85,6 @@ experiences:
       details: |
         Mainly robot/PLC programming. Individual and team work. Working with electrical documentation.
 
-certifications:
-  title: #Certifications
-  list:
-    - name: #IPAF
-      start: #2022
-      end:
-      organization:
-      credentialid:
-      credentialurl:
-      credentialname:
-      details: #|
-
 projects:
   title: Mini-projects
   intro: This projects are not complex.
