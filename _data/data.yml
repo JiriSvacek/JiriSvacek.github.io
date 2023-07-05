@@ -100,8 +100,7 @@ certifications:
          
 projects:
     title: Projects
-    intro: Here are listed main projects:
-
+    intro: Here are listed main projects
     assignments:
       - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://JiriSvacek.eu.pythonanywhere.com"
