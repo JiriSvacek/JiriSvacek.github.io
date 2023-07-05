@@ -99,9 +99,21 @@ certifications:
             3a, 3b
          
 projects:
-    title: Projects
-    intro: Here are listed main projects
+    title: Mini-projects
+    intro: This projects are not complex.
     assignments:
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
+oss:
+    title: Projects
+    intro: Here are listed main projects.
+    contributions:
       - title: Finder (Python - Flask, SocketIO, MySQL)
         link: "https://JiriSvacek.eu.pythonanywhere.com"
         tagline: "Web dating site. On link working sw with some limitations at python anywhere site. Repository: https://github.com/JiriSvacek/Finder"
@@ -109,22 +121,6 @@ projects:
       - title: Heating water with excess power from PV (Micropython)
         link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
         tagline: "Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
-        
-oss:
-    title: Mini-projects
-    intro: This project are not complex.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 
