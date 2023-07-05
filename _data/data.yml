@@ -101,13 +101,13 @@ oss:
   title: Projects
   intro: Here are listed main projects.
   assignments:
-    - title: Finder (Python - Flask, SocketIO, MySQL)
-      link: "https://JiriSvacek.eu.pythonanywhere.com"
-      tagline: "Web dating site. On link working sw with some limitations at python anywhere site. Repository: https://github.com/JiriSvacek/Finder"
+    - title: Finder
+      link: "https://github.com/JiriSvacek/Finder"
+      tagline: "- (Python - Flask, SocketIO, MySQL) Web dating site. On link working sw with some limitations at python anywhere site: https://JiriSvacek.eu.pythonanywhere.com"
 
-    - title: Heating water with excess power from PV (Micropython)
+    - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
-      tagline: "Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
+      tagline: "- (Micropython) - Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
 
 footer: >
   Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
