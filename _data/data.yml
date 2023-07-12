@@ -86,8 +86,8 @@ experiences:
         Mainly robot/PLC programming. Individual and team work. Working with electrical documentation.
 
 projects:
-  title: Projects
-  intro: Here are listed reporetories of some projects.
+  title: Code
+  intro: Here are listed repositories of mine projects/scripts.
   assignments:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
@@ -103,19 +103,12 @@ projects:
 
     - title: Scraping voting data
       link: "https://github.com/JiriSvacek/Web_scrape"
-      tagline: "(Python - BeautifulSoup4) - Scraping voting data"
+      tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017"
 
 oss:
   title:
   intro:
   assignments:
-    - title:
-      link:
-      tagline:
-
-    - title:
-      link:
-      tagline:
 
 footer: >
   Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
