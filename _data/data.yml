@@ -57,7 +57,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Former mechanical engineer. Currently focused on a programing. Mainly in Python, but also in JS or Java.
+    Former mechanical engineer. Currently focused on a programing. Mainly in Python, but also other programing languages.
 education:
   title: Education
   info:
@@ -86,28 +86,36 @@ experiences:
         Mainly robot/PLC programming. Individual and team work. Working with electrical documentation.
 
 projects:
-  title: Mini-projects
-  intro: This projects are not complex.
-  assignments:
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
   title: Projects
-  intro: Here are listed main projects.
+  intro: Here are listed reporetories of some projects.
   assignments:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
       tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working sw with some limitations at python anywhere site: https://JiriSvacek.eu.pythonanywhere.com"
-
+      
     - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
       tagline: "(Micropython) - Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
+
+    - title: Tic-tac-toe
+      link: "https://github.com/JiriSvacek/Tic-tac-toe"
+      tagline: "(Android - Java) - Tic-tac-toe app on Android version 28 and above"
+
+    - title: Scraping voting data
+      link: "https://github.com/JiriSvacek/Web_scrape"
+      tagline: "(Python - BeautifulSoup4) - Scraping voting data"
+
+oss:
+  title:
+  intro:
+  assignments:
+    - title:
+      link:
+      tagline:
+
+    - title:
+      link:
+      tagline:
 
 footer: >
   Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
