@@ -1,19 +1,19 @@
-{% assign projects = site.data.data.oss %} {% if projects %}
+{% assign projects1 = site.data.data.oss %} {% if projects1 %}
 <section class="section projects-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-box-open fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    {{ projects1.title }}
   </h2>
 
-  {% if projects.intro %}
+  {% if projects1.intro %}
   <div class="intro">
-    <p>{{ projects.intro }}</p>
+    <p>{{ projects1.intro }}</p>
   </div>
   <!--//intro-->
-  {% endif %} {% for project in projects.assignments %}
+  {% endif %} {% for project in projects1.assignments %}
   <div class="item">
     <span class="project-title">
       {% if project.link %}
