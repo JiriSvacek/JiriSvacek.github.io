@@ -105,10 +105,5 @@ projects:
       link: "https://github.com/JiriSvacek/Web_scrape"
       tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017"
 
-oss:
-  title:
-  intro:
-  assignments:
-
 footer: >
   Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
