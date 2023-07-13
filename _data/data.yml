@@ -91,11 +91,11 @@ projects:
   assignments:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
-      tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working sw with some limitations at python anywhere site: https://JiriSvacek.eu.pythonanywhere.com"
+      tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: https://JiriSvacek.eu.pythonanywhere.com"
       
     - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
-      tagline: "(Micropython) - Switching heating of tanks for domestic water according to photovoltaic capacity with Rasberry Pi Pico"
+      tagline: "(Micropython) - Switching heating of tanks for domestic hot water according to photovoltaic capacity with Rasberry Pi Pico"
 
     - title: Tic-tac-toe
       link: "https://github.com/JiriSvacek/Tic-tac-toe"
@@ -103,7 +103,17 @@ projects:
 
     - title: Scraping voting data
       link: "https://github.com/JiriSvacek/Web_scrape"
-      tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017"
+      tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017 by specified district. Data are saved to the csv file"
+      
+    - title: Search-bot
+      link: "https://github.com/JiriSvacek/Search-bot"
+      tagline: "(TypeScript) - Small project focused to excercise HTML, CSS and Typescript. Page loads persons data with photo. User can filter them by name."
+      
+    - title: Eshop
+      link: "https://github.com/JiriSvacek/E-shop"
+      tagline: "(Java - Spring Boot, MySQL) - Fictitious e-shop for backend testing puposes of Spring Boot and MySQL with one HTML"
+
+      
 
 footer: >
   Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
