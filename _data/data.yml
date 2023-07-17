@@ -111,7 +111,7 @@ projects:
       
     - title: Eshop
       link: "https://github.com/JiriSvacek/E-shop"
-      tagline: "(Java - Spring Boot, MySQL) - Fictitious e-shop for backend testing puposes of Spring Boot and MySQL with one HTML"
+      tagline: "(Java - Spring Boot, MySQL) - Fictitious e-shop for backend testing puposes of Spring Boot and MySQL"
 
       
 
