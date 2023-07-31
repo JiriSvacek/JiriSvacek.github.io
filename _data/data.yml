@@ -91,7 +91,7 @@ projects:
   assignments:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
-      tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: <a href="https://JiriSvacek.eu.pythonanywhere.com" target="_blank" rel="nofollow">Click Here!</a>"
+      tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: <a href='https://JiriSvacek.eu.pythonanywhere.com' target='_blank' rel='nofollow'>Click Here!</a>"
       
     - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
