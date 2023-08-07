@@ -1,12 +1,23 @@
 {% assign technology = site.data.data.sidebar.skills %} {% if technology %}
-<div class="languages-container container-block">
-  <h2 class="container-block-title">{{ technology.title }}</h2>
+<section class="section projects-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ technology.title }}
+  </h2>
 
-  <ul class="list-unstyled interests-list">
-    {% for tech in technology.info %} {{ tech.idiom }}
-    <span class="lang-desc">- {{ tech.level }}</span>
-    {% endfor %}
-  </ul>
-</div>
-<!--//interests-->
+  {% for tech in technology.info %}
+  <div class="item">
+    <h3 class="job-title">{{ tech.idiom }}</h3>
+
+    <div class="details">
+      <p>{{ tech.level }}</p>
+    </div>
+  </div>
+  <!--//item-->
+  {% endfor %}
+</section>
+<!--//section-->
 {% endif %}
