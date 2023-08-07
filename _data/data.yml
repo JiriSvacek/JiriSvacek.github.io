@@ -45,13 +45,13 @@ sidebar:
   skills:
     title: Technologies
     info:
-      - idiom: Languages:
+      - idiom: Languages
         level: Python, Javascript, Typescript, Java
 
-      - idiom: Frameworks/libraries:
+      - idiom: Frameworks/libraries
         level: Flask, MySQL, BeautifulSoup, SocketIO, Bulma, Spring Boot
 
-      - idiom: Software:
+      - idiom: Software
         level: PyCharm, VS Code, IntelliJ, Android Studio, MySQL Workbench, Postman
 
   interests:

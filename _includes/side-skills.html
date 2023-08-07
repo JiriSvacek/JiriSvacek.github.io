@@ -10,11 +10,11 @@
 
   {% for tech in technology.info %}
   <div class="item">
-    <h3 class="job-title">{{ tech.idiom }}</h3>
-
-    <div class="details">
-      <p>{{ tech.level }}</p>
+    <div class="meta">
+      <h3 class="job-title">{{ tech.idiom }}:</h3>
     </div>
+
+    <div class="details">{{ tech.level }}</div>
   </div>
   <!--//item-->
   {% endfor %}
