@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jiří Šváček
@@ -58,6 +58,9 @@ career-profile:
   title: Few words
   summary: |
     Graduated mechanical engineer. I had/have always great interest in software and programming. In order to learn faster and progressive, I went through several Engeto programming courses.I have already experience with PLC/Robot programing. Currently seeking entry-level position in programing in high-level programming language. Mainly in Python, but I also manage JS, Java.
+
+education:
+  title: Education
   info:
     - degree: Erasmus exchange
       university: University of Maribor
