@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jiří Šváček
@@ -16,7 +16,7 @@ sidebar:
   email: svacek.jiri@email.cz
   phone: +420 724 385 611
   timezone:
-  citizenship: Czech
+  citizenship: #Czech
   website: Brno, Czechia #blog.webjeda.com do not add http://
   linkedin:
   xing:
@@ -45,13 +45,13 @@ sidebar:
   skills:
     title: Technologies
     info:
-      - idiom: Languages
+      - idiom: Languages:
         level: Python, Javascript, Typescript, Java
 
-      - idiom: Frameworks/libraries
+      - idiom: Frameworks/libraries:
         level: Flask, MySQL, BeautifulSoup, SocketIO, Bulma, Spring Boot
 
-      - idiom: Software
+      - idiom: Software:
         level: PyCharm, VS Code, IntelliJ, Android Studio, MySQL Workbench, Postman
 
   interests:
