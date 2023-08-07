@@ -41,6 +41,18 @@ sidebar:
 
       - idiom: German
         level: Just starting
+        
+  languages:
+    title: Languages
+    info:
+      - idiom: Czech
+        level: Native
+
+      - idiom: English
+        level: Without problem
+
+      - idiom: German
+        level: Just starting
 
   interests:
     title: Interests
