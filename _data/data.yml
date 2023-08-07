@@ -42,18 +42,6 @@ sidebar:
       - idiom: German
         level: Just starting
         
-  languages:
-    title: Languages
-    info:
-      - idiom: Czech
-        level: Native
-
-      - idiom: English
-        level: Without problem
-
-      - idiom: German
-        level: Just starting
-
   interests:
     title: Interests
     info:
@@ -82,13 +70,13 @@ education:
     - degree: MSc in Production machines, systems and robots
       university: Brno University of Technology
       time: 2018 - 2020
-      details:
+      details: The aims of the course was to offer educations from developing, designing, controlling of machining and forming technology, industrial robots and manipulators, as well as production systems compiled from them.
 
     - degree: BSc in Construction of machines and equipment
       university: Brno University of Technology
       time: 2015 - 2018
-      details:
-
+      details: This study branch is determined to be able to design transport, handling and production machines and their structural groups and subgroups.
+      
 experiences:
   title: Experiences
   info:
