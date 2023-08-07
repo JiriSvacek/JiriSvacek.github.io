@@ -31,7 +31,7 @@ sidebar:
   pdf: #https://JiriSvacek.github.io/print
 
   languages:
-    title: tohle
+    title: Languages
     info:
       - idiom: Czech
         level: Native
@@ -41,7 +41,19 @@ sidebar:
 
       - idiom: German
         level: Just starting
-        
+
+  skills:
+    title: Technologies
+    info:
+      - idiom: Languages
+        level: Python, Javascript, Typescript, Java
+
+      - idiom: Frameworks/libraries
+        level: Flask, MySQL, BeautifulSoup, SocketIO, Bulma, Spring Boot
+
+      - idiom: Software
+        level: PyCharm, VS Code, IntelliJ, Android Studio, MySQL Workbench, Postman
+
   interests:
     title: Interests
     info:
@@ -76,7 +88,7 @@ education:
       university: Brno University of Technology
       time: 2015 - 2018
       details: This study branch is determined to be able to design transport, handling and production machines and their structural groups and subgroups.
-      
+
 experiences:
   title: Experiences
   info:
@@ -93,7 +105,7 @@ projects:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
       tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: <a href='https://JiriSvacek.eu.pythonanywhere.com' target='_blank' rel='nofollow'>Click Here!</a>"
-      
+
     - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
       tagline: "(Micropython) - Switching heating of tanks for domestic hot water according to photovoltaic capacity with Rasberry Pi Pico"
@@ -105,16 +117,14 @@ projects:
     - title: Scraping voting data
       link: "https://github.com/JiriSvacek/Web_scrape"
       tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017 by specified district. Data are saved to the csv file"
-      
+
     - title: Search-bot
       link: "https://github.com/JiriSvacek/Search-bot"
       tagline: "(TypeScript) - Small project focused to excercise HTML, CSS and Typescript. Page loads persons data with photo. User can filter them by name."
-      
+
     - title: Eshop
       link: "https://github.com/JiriSvacek/E-shop"
       tagline: "(Java - Spring Boot, MySQL) - Fictitious e-shop for backend testing puposes of Spring Boot and MySQL"
-
-      
 
 footer: >
   Template CV forked from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">sharu725</a>
