@@ -75,7 +75,7 @@ education:
   title: Education
   info:
     - degree: Erasmus exchange
-      university: University of Maribor
+      university: University of Maribor, Slovenia
       time: 2021
       details: One semester of Erasmus
 
@@ -114,6 +114,10 @@ projects:
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
       tagline: "(Micropython) - Switching heating of tanks for domestic hot water according to photovoltaic capacity with Rasberry Pi Pico"
 
+    - title: Search-bot
+      link: "https://github.com/JiriSvacek/Search-bot"
+      tagline: "(TypeScript) - Small project focused to excercise HTML, CSS and Typescript. Page loads persons data with photo. User can filter them by name."
+
     - title: Tic-tac-toe
       link: "https://github.com/JiriSvacek/Tic-tac-toe"
       tagline: "(Android - Java) - Tic-tac-toe app on Android version 28 and above"
@@ -121,10 +125,6 @@ projects:
    # - title: Scraping voting data
    #   link: "https://github.com/JiriSvacek/Web_scrape"
    #   tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017 by specified district. Data are saved to the csv file"
-      
-    - title: Search-bot
-      link: "https://github.com/JiriSvacek/Search-bot"
-      tagline: "(TypeScript) - Small project focused to excercise HTML, CSS and Typescript. Page loads persons data with photo. User can filter them by name."
 
     - title: Eshop
       link: "https://github.com/JiriSvacek/E-shop"
