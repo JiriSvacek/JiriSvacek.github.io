@@ -108,7 +108,7 @@ projects:
 
     - title: Reality-scraper
       link: "https://github.com/JiriSvacek/Reality-scraper"
-      tagline: "(Python - Flask/Selenium, PostgreSQL, Docker) - Dockerized small project focused on scraper data with saving to Postgresql and after that preview them via Flask app."
+      tagline: "(Python - Flask/Selenium, PostgreSQL, Docker) - Dockerized small project focused on scraping data with saving to Postgresql and after that preview them via Flask app."
       
     - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
