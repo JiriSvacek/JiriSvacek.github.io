@@ -49,7 +49,7 @@ sidebar:
         level: Python, Javascript, Typescript, Java
 
       - idiom: Frameworks/libraries
-        level: Flask, MySQL, BeautifulSoup, SocketIO, Bulma, Spring Boot
+        level: Flask, MySQL, PostgreSQL, Docker, Selenium, Spring Boot, BeautifulSoup, SocketIO, Bulma
 
       - idiom: Software
         level: PyCharm, VS Code, IntelliJ, Android Studio, MySQL Workbench, Postman
@@ -104,8 +104,12 @@ projects:
   assignments:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
-      tagline: "(Python - Flask, SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: <a href='https://JiriSvacek.eu.pythonanywhere.com' target='_blank' rel='nofollow'>Click Here!</a>"
+      tagline: "(Python - Flask/SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: <a href='https://JiriSvacek.eu.pythonanywhere.com' target='_blank' rel='nofollow'>Click Here!</a>"
 
+    - title: Reality-scraper
+      link: "https://github.com/JiriSvacek/Reality-scraper"
+      tagline: "(Python - Flask/Selenium, PostgreSQL, Docker) - Dockerized small project focused on scraper data with saving to Postgresql and after that preview them via Flask app."
+      
     - title: Heating water with excess power from PV
       link: "https://github.com/JiriSvacek/PV_DHW_control_Seplos-BMS"
       tagline: "(Micropython) - Switching heating of tanks for domestic hot water according to photovoltaic capacity with Rasberry Pi Pico"
@@ -114,10 +118,10 @@ projects:
       link: "https://github.com/JiriSvacek/Tic-tac-toe"
       tagline: "(Android - Java) - Tic-tac-toe app on Android version 28 and above"
 
-    - title: Scraping voting data
-      link: "https://github.com/JiriSvacek/Web_scrape"
-      tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017 by specified district. Data are saved to the csv file"
-
+   # - title: Scraping voting data
+   #   link: "https://github.com/JiriSvacek/Web_scrape"
+   #   tagline: "(Python - BeautifulSoup4) - Scraper of elections to the Chamber of Deputies of the Parliament of the Czech Republic held on 2017 by specified district. Data are saved to the csv file"
+      
     - title: Search-bot
       link: "https://github.com/JiriSvacek/Search-bot"
       tagline: "(TypeScript) - Small project focused to excercise HTML, CSS and Typescript. Page loads persons data with photo. User can filter them by name."
