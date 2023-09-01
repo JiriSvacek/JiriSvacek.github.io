@@ -69,7 +69,7 @@ sidebar:
 career-profile:
   title: Few words
   summary: |
-    Graduated mechanical engineer. I had/have always great interest in software and programming. In order to learn faster and progressive, I went through several Engeto programming courses.I have already experience with PLC/Robot programing. Currently seeking entry-level position in programing in high-level programming language. Mainly in Python, but I also manage JS, Java.
+    Graduated mechanical engineer with professional qualification in electrical engineering in terms of government decree No. 194/2022 Coll - §9 (old - notice No. 50/1987 Coll. – §6). I had/have always great interest in software and programming. In order to learn faster and progressive, I went through several Engeto programming courses. I have already experience with PLC/Robot programing. Currently seeking entry-level position in programing in high-level programming language. Mainly in Python, but I also manage JS, Java.
 
 education:
   title: Education
@@ -93,7 +93,7 @@ experiences:
   title: Experiences
   info:
     - role: SW Developer
-      time: 2021 - Present
+      time: 9/2021 - 9/2023
       company: ICE Industrial Services, Czechia
       details: |
         Mainly robot/PLC programming. Individual and team work most of the time at the customer site. I also modified/repair electrical equipment according to the customer needs.
