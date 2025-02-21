@@ -46,13 +46,10 @@ sidebar:
     title: Technologies
     info:
       - idiom: Languages
-        level: Python, Javascript, Typescript, Java
+        level: Python, Javascript, Typescript, Java, Powershell
 
-      - idiom: Frameworks/libraries
-        level: Flask, MySQL, PostgreSQL, Docker, Selenium, Spring Boot, BeautifulSoup, SocketIO, Bulma
-
-      - idiom: Software
-        level: PyCharm, VS Code, IntelliJ, Android Studio, MySQL Workbench, Postman
+      - idiom: Softwares
+        level: git, MySQL, PostgreSQL, Docker, Kubernetes, Jenkins, GitLab, VS Code, IntelliJ, Android Studio, Postman
 
   interests:
     title: Interests
@@ -69,7 +66,7 @@ sidebar:
 career-profile:
   title: Few words
   summary: |
-    Graduated mechanical engineer with professional qualification in electrical engineering in terms of government decree No. 194/2022 Coll - §9 (old - notice No. 50/1987 Coll. – §6). I had/have always great interest in software and programming. In order to learn faster and progressive, I went through several Engeto programming courses. I have already experience with PLC/Robot programing. Currently seeking entry-level position in programing in high-level programming language. Mainly in Python, but I also manage JS, Java.
+    Graduated mechanical engineer with professional qualification in electrical engineering. I had/have always great interest in software and programming. In order to learn faster and progressive, I went through several programming courses. I have already experience with PLC/Robot programing. Nowdays I am programing mainly in Python.
 
 education:
   title: Education
@@ -97,14 +94,19 @@ experiences:
       company: ICE Industrial Services, Czechia
       details: |
         Mainly robot/PLC programming. Individual and team work most of the time at the customer site. I also modified/repair electrical equipment according to the customer needs.
+    - role: Developer
+      time: 9/2023 - Now
+      company: ERA, Czechia
+      details: |
+        Work at release department where tasks are varying from small scripts up to python libraries and small scale web servers. Most of work was focused on python programming which includes work with git and GitLab. Also managing Jenkins server with kubernetes plus containerization. Scripting in powershell, sometimes in linux.  
 
 projects:
   title: Code
-  intro: Here are listed repositories of mine projects/scripts.
+  intro: Here are listed repositories of mine older projects/scripts.
   assignments:
     - title: Finder
       link: "https://github.com/JiriSvacek/Finder"
-      tagline: "(Python - Flask/SocketIO, MySQL) - Web dating site. On link working example with some limitations at python anywhere site: <a href='https://JiriSvacek.eu.pythonanywhere.com' target='_blank' rel='nofollow'>Click Here!</a>"
+      tagline: "(Python - Flask/SocketIO, MySQL) - Web dating site." # On link working example with some limitations at python anywhere site: <a href='https://JiriSvacek.eu.pythonanywhere.com' target='_blank' rel='nofollow'>Click Here!</a>"
 
     - title: Reality-scraper
       link: "https://github.com/JiriSvacek/Reality-scraper"
